@@ -36,14 +36,16 @@ Built with the latest tech stack — **React + Vite + TypeScript + TailwindCSS +
 
 ## 🛠️ Tech Stack
 
-| Technology    | Description                      |
-|---------------|----------------------------------|
-| ⚛️ React       | Frontend library                 |
-| ⚡ Vite        | Lightning-fast build tool        |
-| 💬 TypeScript  | Static typing for safer code     |
-| 🎨 TailwindCSS | Modern utility-first CSS framework |
-| 🔗 Axios       | Promise-based HTTP client        |
-| ♻️ Infinite Scroll Component | Dynamic job loading |
+| Technology            | Description                                 |
+|------------------------|---------------------------------------------|
+| ⚛️ React Native (Expo) | Framework for building mobile apps         |
+| 💬 TypeScript          | Static typing for safer and scalable code  |
+| 🧹 NativeWind          | TailwindCSS styling for React Native       |
+| 🗺️ Expo Maps           | Map integration for property locations    |
+| 🔗 Axios               | Promise-based HTTP client for APIs        |
+| 🎯 Zustand             | Lightweight state management library      |
+| 🛡️ Gorhom Bottom Sheet | Beautiful bottom sheet modal UI           |
+| 📦 React Navigation    | Routing and navigation between screens    |
 
 ---
 
